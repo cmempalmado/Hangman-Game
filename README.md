@@ -2,7 +2,7 @@
 
 ## About the App
 
-This is a simple hangman game that is available to play on your free time. This will be the first application I will make after completing the coding bootcamp I enrolled into. Please enjoy the game and don't let that rage come into your head if you can't guess the word 😊.
+A simple hangman game that is available for everyone to play. Hangman game will be the first application I will be making after completing the coding bootcamp. Please enjoy the game and don't let rage overcome yourself if you can't guess the word 😊.
 
 ## User Story
 
